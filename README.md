@@ -7,7 +7,7 @@
 - Software: Jupyter Notebook
 
 ## Results
-- School Analysis: [PyCity School_Analysis](PyCitySchools_Challenge.ipynb)
+- School Analysis: [PyCity Schools_Challenge](PyCitySchools_Challenge.ipynb); [PyCity_Schools](PyCitySchools.ipynb)
 
 ### How is the district summary affected?
 
