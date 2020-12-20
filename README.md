@@ -1,10 +1,13 @@
 # School_District_Analysis
 
-## Overview of the School District Analysis
+## Purpose
 
-### Purpose
+## Resources
+- Data Sources: [schools_complete.csv](Resources/schools_complete.csv); [students_complete.csv](Resources/students_complete.csv)
+- Software: Jupyter Notebook
 
 ## Results
+- School Analysis: [PyCity School_Analysis](PyCitySchools_Challenge.ipynb)
 
 ### How is the district summary affected?
 
