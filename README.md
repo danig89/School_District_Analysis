@@ -43,18 +43,15 @@ Replacing the ninth grade scores caused Thomas High School's performance to decr
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
   - Reading scores decreased for majority of the schools' ninth graders.
-![Reading_Before](Resources/ninth_reading_before.png)
-<br>
-![Reading_After](Resources/ninth_reading_after.png)
   - Math scores do not seem to have an affect.
 
 - Scores by school spending
   - For spending range $585-629, the average math score, percentage Passing Reading, and percentage Overall Passing decreased. Percentage Passing Math increased.
   - For spending range $645-675, all values remained the same.
- ![Spending_Before](Resources/spending_before)
- ![Spending_After](Resources/spending_after)
+ ![Spending_Before](Resources/spending_after.png)
+ ![Spending_After](Resources/spending_after.png)
  <br>
- <br>
+ 
 - Scores by school size
 
 - Scores by school type
