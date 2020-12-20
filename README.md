@@ -48,6 +48,7 @@ Replacing the ninth grade scores caused Thomas High School's performance to decr
 - Scores by school spending
   - For spending range $585-629, the average math score, percentage Passing Reading, and percentage Overall Passing decreased. Percentage Passing Math increased.
   - For spending range $645-675, all values remained the same.
+  <br>
 Spending Before Removing Ninth Grade Scores
   <br>
   <br>
@@ -63,7 +64,6 @@ Spending After Removing Ninth Grade Scores
   <br>
 School Size Before Removing Ninth Grade Scores
   <br>
-  
   ![Size_Before](Resources/size_before.png)
 School Size After Removing Ninth Grade Scores
   <br>
