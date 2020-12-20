@@ -27,7 +27,7 @@ District Summary After Removing Ninth Grade Scores
 - The overall passing percentage for the district was not affected, remaining at 65% after removing 9th grader scores at Thomas High School.
 
 ### How is the school summary affected?
-Thomas High School After Removing 9th Grade Scores
+Thomas High School After Removing Ninth Grade Scores
 <br>
 <br>
 ![Column Headers](Resources/column_headers.png)
@@ -48,19 +48,33 @@ Replacing the ninth grade scores caused Thomas High School's performance to decr
 - Scores by school spending
   - For spending range $585-629, the average math score, percentage Passing Reading, and percentage Overall Passing decreased. Percentage Passing Math increased.
   - For spending range $645-675, all values remained the same.
+Spending Before Removing Ninth Grade Scores
+  <br>
+  <br>
  ![Spending_Before](Resources/spending_after.png)
+Spending After Removing Ninth Grade Scores
+ <br>
+ <br>
  ![Spending_After](Resources/spending_after.png)
  <br>
 - Scores by school size
   - For small (<1000) sized schools, percentage Passing Math,	percentage Passing Reading, and percentage Overall Passing values decreased.
   - Medium (1000-2000) and Large (2000-5000) schools were unaffected.
+School Size Before Removing Ninth Grade Scores
+  <br>
+  <br>
   ![Size_Before](Resources/size_before.png)
+  
+School Size After Removing Ninth Grade Scores
+  <br>
+  <br>
   ![Size_After](Resources/size_after.png)
   <br>
 - Scores by school type
- - For Charter schools, percentage Passing Math, percentage Passing Reading, and percentage Overall Passing scores increased after removing ninth grade scores. Average math and average reading scores were not affected.
- - For Ditrict schools, no values were affected, as Thomas High School is a Charter school.
- ![Type_Before](Resoucres/type_before.png)
+  - For Charter schools, percentage Passing Math, percentage Passing Reading, and percentage Overall Passing scores increased after removing ninth grade scores. Average math and average reading scores were not affected.
+  - For District schools, no values were affected, as Thomas High School is a Charter school.
+ ![Type_Before](Resources/type_before.png)
  ![Type_After](Resources/type_after.png)
  <br>
+ 
 ## Summary
