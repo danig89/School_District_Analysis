@@ -14,12 +14,24 @@ For the challenge, reading and math grades for Thomas High School ninth graders 
 - School Analysis: [PyCity Schools_Challenge](PyCitySchools_Challenge.ipynb); [PyCity_Schools](PyCitySchools.ipynb)
 
 ### How is the district summary affected?
+District Summary Before Removing 9th Grade Scores
+<br>
+<br>
+![District_Summary_Before](Resources/district_before.png)
+District Summary After Removing 9th Grade Scores
+<br>
+<br>
+![District_Summary_After](Resources/district_after.png)
 - By removing the 9th grade reading and math scores, the total number of students in the district was decreased from 39,170 to 38,709 students.
 - The average math and reading scores, and the percentage of passing math and reading values were not affected by removing 9th grade test scores.
 - The overall passing percentage for the district was not affected, remaining at 65% after removing 9th grader scores at Thomas High School.
 
 ### How is the school summary affected?
-
+Thomas High School After Removing 9th Grade Scores
+<br>
+<br>
+![Column Headers](Resources/column_headers.png)
+![Thomas High After](Resources/thomas_high_after.png)
 - With removal of 9th grades scores, the passing math percentage for the Thomas High School decreased from 93.2% to 66.9%.
 - Average reading scores were not affected, remaining at 83.8% after removing 9th grade test scores.
 - For Thomas High School, the overall passing percentage decreased from 90.9% to 65%.
