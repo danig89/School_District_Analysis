@@ -77,3 +77,8 @@ School Size After Removing Ninth Grade Scores
  ![Type_After](Resources/type_after.png)
  
 ## Summary
+- Major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs include:
+  - Decrease in total student count from 39,170 to 38,709 students.
+  - The passing math percentage for the Thomas High School decreased from 93.2% to 66.9%.
+  - For Thomas High School, the overall passing percentage decreased from 90.9% to 65%.
+  - For Charter schools, percentage Passing Math, percentage Passing Reading, and percentage Overall Passing scores increased after removing ninth grade scores.
