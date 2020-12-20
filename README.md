@@ -60,11 +60,11 @@ Spending After Removing Ninth Grade Scores
 - Scores by school size
   - For small (<1000) sized schools, percentage Passing Math,	percentage Passing Reading, and percentage Overall Passing values decreased.
   - Medium (1000-2000) and Large (2000-5000) schools were unaffected.
+  <br>
 School Size Before Removing Ninth Grade Scores
   <br>
-  <br>
-  ![Size_Before](Resources/size_before.png)
   
+  ![Size_Before](Resources/size_before.png)
 School Size After Removing Ninth Grade Scores
   <br>
   <br>
@@ -75,6 +75,5 @@ School Size After Removing Ninth Grade Scores
   - For District schools, no values were affected, as Thomas High School is a Charter school.
  ![Type_Before](Resources/type_before.png)
  ![Type_After](Resources/type_after.png)
- <br>
  
 ## Summary
